@@ -95,9 +95,6 @@ YouTube changes often break older versions of yt-dlp. If you use the .exe, a new
 
 Titles may include text like "(Official Video)", and the artist field may only be the channel name.
 
-## Legal Note
-
-Only download content you have the right to download, and follow YouTube's Terms of Service and the copyright laws where you live.
 
 ## Credits
 
