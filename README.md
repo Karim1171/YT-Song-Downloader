@@ -5,7 +5,7 @@ A simple Windows desktop app that downloads YouTube audio as MP3 (or M4A, Opus, 
 ## Download
 
 Get the latest version here:
-https://github.com/Kimoo/YT-Song-Downloader/releases/latest
+https://github.com/Karim1171/YT-Song-Downloader/releases/latest
 
 ## Features
 
