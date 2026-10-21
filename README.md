@@ -100,8 +100,5 @@ Titles may include text like "(Official Video)", and the artist field may only b
 
 - Built on yt-dlp: https://github.com/yt-dlp/yt-dlp
 - Audio processing with FFmpeg: https://ffmpeg.org
-- App design inspired by Seal, the Android app: https://github.com/JunkFood02/Seal
 
-## License
 
-MIT, see LICENSE.
