@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build files and outputs
+build/
+dist/
+*.spec
+
+# FFmpeg binary
+ffmpeg.exe
+ffprobe.exe
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editor / IDE metadata
+.vscode/
+.idea/
+
+# Local configuration and logs
+*.log
