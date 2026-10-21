@@ -27,6 +27,12 @@ Screenshot coming soon
 - FFmpeg, required for conversion and tagging (needed for both options below).
 - Python 3.10 or newer, only if you run from source. tkinter is included with the standard Windows installer.
 
+To check if FFmpeg is already installed, open PowerShell or Command Prompt and run:
+```powershell
+ffmpeg -version
+```
+If you see version details, FFmpeg is installed. If Windows shows an error that the command is not recognized, install FFmpeg using the steps below.
+
 ## Installation
 
 ### Option A (Easiest)
