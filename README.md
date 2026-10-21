@@ -39,7 +39,7 @@ If you see version details, FFmpeg is installed. If Windows shows an error that 
 
 Download `YT-Song-Downloader.exe` from the latest GitHub Release and double-click it. No Python needed.
 
-Install FFmpeg first:
+Install FFmpeg first. Open PowerShell or Command Prompt and run:
 ```powershell
 winget install ffmpeg
 ```
@@ -49,7 +49,7 @@ Restart the app after installing FFmpeg.
 
 For people who want the Python code:
 
-1. Install FFmpeg:
+1. Install FFmpeg. Open PowerShell or Command Prompt and run:
 ```powershell
 winget install ffmpeg
 ```
@@ -88,7 +88,7 @@ Songs go to C:\Music the first time. Choose another folder with Browse, and the 
 
 ## Troubleshooting
 
-- "FFmpeg not found": Install FFmpeg and restart the app.
+- "FFmpeg not found": Install FFmpeg (run `winget install ffmpeg` in PowerShell or Command Prompt) and restart the app.
 - Downloads fail: Run the following command and try again:
 ```powershell
 pip install -U yt-dlp

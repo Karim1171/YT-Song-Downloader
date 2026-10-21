@@ -15,7 +15,7 @@ This is the initial release of YT-Song-Downloader, a simple desktop app for Wind
 ## Download & Setup
 
 - Standalone Executable: Download `YT-Song-Downloader.exe` from the release assets below and run it directly without installing Python.
-- FFmpeg Requirement: FFmpeg is required on your computer to convert audio formats and embed album art. Install it with:
+- FFmpeg Requirement: FFmpeg is required on your computer to convert audio formats and embed album art. Open PowerShell or Command Prompt and install it with:
 ```powershell
 winget install ffmpeg
 ```
